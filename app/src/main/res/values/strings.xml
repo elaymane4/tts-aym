@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">القارئ الصوتي</string>
+    <string name="service_description">يقرأ محتوى الشاشة بالعربية وينفذ الأوامر الصوتية مثل التنقل وفتح التطبيقات والمكالمات والرسائل الصوتية في واتساب. يستعمل هذا الإذن لمساعدة ذوي الإعاقة البصرية فقط.</string>
+</resources>
